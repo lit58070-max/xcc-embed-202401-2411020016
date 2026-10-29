@@ -7,6 +7,7 @@
 *.map
 *.list
 *.cyclo
+build/
 
 # ---- Keil MDK 中间文件 ----
 MDK-ARM/
