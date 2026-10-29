@@ -1,0 +1,22 @@
+# ---- STM32CubeIDE 编译产物（体积大，不提交）----
+**/Debug/
+**/Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.cyclo
+
+# ---- Keil MDK 中间文件 ----
+MDK-ARM/
+*.hex
+*.axf
+*.uvgui*
+*.uvguix*
+*.scvd
+
+# ---- 系统 / IDE 临时文件 ----
+.metadata/
+Thumbs.db
+desktop.ini
